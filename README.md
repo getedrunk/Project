@@ -1,5 +1,5 @@
 # New Project 
-this is creaed form local
+this is creaed form local.
 
 # Author
 MS
